@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">藏经阁</string>
+    <string name="action_settings">我的收藏</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_book_detail">馆藏信息</string>
+    <string name="title_activity_book_list">书目信息</string>
+    <string name="menu_search">menu_search</string>
+    <string name="title_activity_my_book_store">我的收藏</string>
+    <string name="inputSomething">请输入查询内容</string>
+
+</resources>
